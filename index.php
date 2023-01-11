@@ -66,9 +66,7 @@
                 <label for = "status">สถานะ</label><br>
                 <input type="radio" name="status" value="แต่งงานแล้ว">แต่งงานแล้ว<br>
                 <input type="radio" name="status" value="ยังไม่ได้แต่งงาน">ยังไม่ได้แต่งงาน<br>
-                <button class="btn-1">Submit</button>
-                
-            
+                <button class="btn-1">Submit</button>  
         </form>
     </body>
 </html>

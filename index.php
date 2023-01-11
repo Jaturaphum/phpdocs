@@ -55,21 +55,20 @@
     </style>
 <body>
     <h1 style ="font-size:18px;">กรอกข้อมูลส่วนตัว</h1>
-<form action="show.php">
-        <label for = "name">ชื่อ</label><br>
-        <input type="text" name="name"><br>
-        <label for = "age">อายุ</label><br>
-        <input type="text" name="age"><br>
-        <label for = "sex" >เพศ</label><br>
-        <input type="radio" name="sex" value="ผู้ชาย">ผู้ชาย<br>
-        <input type="radio" name="sex" value="ผู้หญิง">ผู้หญิง<br>
-        <label for = "status">สถานะ</label><br>
-        <input type="radio" name="status" value="แต่งงานแล้ว">แต่งงานแล้ว<br>
-        <input type="radio" name="status" value="ยังไม่ได้แต่งงาน">ยังไม่ได้แต่งงาน<br>
-        <button class="btn-1">Submit</button>
-        
-    
-</form>
-</body>
-
+        <form action="show.php">
+                <label for = "name">ชื่อ</label><br>
+                <input type="text" name="name"><br>
+                <label for = "age">อายุ</label><br>
+                <input type="text" name="age"><br>
+                <label for = "sex" >เพศ</label><br>
+                <input type="radio" name="sex" value="ผู้ชาย">ผู้ชาย<br>
+                <input type="radio" name="sex" value="ผู้หญิง">ผู้หญิง<br>
+                <label for = "status">สถานะ</label><br>
+                <input type="radio" name="status" value="แต่งงานแล้ว">แต่งงานแล้ว<br>
+                <input type="radio" name="status" value="ยังไม่ได้แต่งงาน">ยังไม่ได้แต่งงาน<br>
+                <button class="btn-1">Submit</button>
+                
+            
+        </form>
+    </body>
 </html>

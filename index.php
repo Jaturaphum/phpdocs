@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ข้อมูล</title>
+    <title>PHPdocs</title>
 </head>
     <style>
         body {
